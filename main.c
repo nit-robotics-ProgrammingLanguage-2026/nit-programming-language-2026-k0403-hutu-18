@@ -3,7 +3,7 @@
 int main(void) {
   int x;
 
-    double result
+    double result;
 
     int answer;
 
